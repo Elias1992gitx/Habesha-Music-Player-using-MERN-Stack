@@ -31,7 +31,7 @@ A web-based music player application built using React.js, Node.js, Express.js, 
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/your-username/habesha-music-player.git
+git clone https://github.com/Elias1992gix/habesha-music-player.git
 
 
 2. Install dependencies for both the client and server:

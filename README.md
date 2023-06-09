@@ -3,7 +3,7 @@
 A web-based music player application built using React.js, Node.js, Express.js, Firebase, MongoDB, and Tailwind CSS.
 
 ## Features
-- Music playback controls (play, pause, skip, etc.)
+- Music playback controls (play, pause, delete, add, skip, etc.)
 - Search and filter functionality for songs and playlists
 - Real-time updates with Firebase Realtime Database
 - Responsive design using Tailwind CSS
